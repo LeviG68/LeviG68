@@ -1,3 +1,3 @@
 <h1><img src="https://www.mycoloradoparks.com/wp-content/uploads/2020/07/rm-bearlake_tamjeffstephenson_700.jpg" width="300"/> Hello !</h1>
 
-<p>My name is Levi Glendenning  and today is Friday, July 16, 10:12 PM MDT.</p>
+<p>My name is Levi Glendenning  and today is Monday, July 19, 1:29 PM MDT.</p>
