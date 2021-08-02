@@ -21,7 +21,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/?logo=python" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python?style=flat-square&logo=python&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
@@ -30,6 +30,7 @@
 
   <br />
 ---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviG68&show_icons=true&theme=dark)
 
 
