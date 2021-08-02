@@ -29,6 +29,8 @@
   <img align="left" alt="SQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img align="left" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS3-E31B5F?style=flat-square&logo=css3&logoColor=white" />
+  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
+  <img align="left" alt="Express" src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=white" />
 
   <br />
 ---
