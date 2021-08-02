@@ -26,7 +26,9 @@
   <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img align="left" alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img align="left" alt="SQL" src="https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=sql&logoColor=white" />
   <img align="left" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-E31B5F?style=flat-square&logo=css&logoColor=white" />
 
   <br />
 ---
