@@ -33,7 +33,7 @@
   <img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=white" />
   <img align="left" alt="BootStrap" src="https://img.shields.io/badge/-Boottrap-602C50?style=flat-square&logo=bootstrap&logoColor=white" />
   <img align="left" alt="FireBase" src="https://img.shields.io/badge/-Firebase-F5820D?style=flat-square&logo=firebase&logoColor=white" />
-  <img align="left" alt="Material-UI" src="https://img.shields.io/badge/-Material-UI-3F51B5?style=flat-square&logo=materialui&logoColor=white" />
+  <img align="left" alt="Material-UI" src="https://img.shields.io/badge/-Material_UI-3F51B5?style=flat-square&logo=materialui&logoColor=white" />
 
   <br />
 ---
