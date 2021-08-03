@@ -4,7 +4,7 @@
 ## I'm a Husband, Father and Developer
 - :books: I'm currently learning everything !
 - :goal_net: 2021 Goals: Learn more languages and deeper dive in to one that I already know !
-- When I am not working I like to hang with the fam:family:, further my skills with Woodworking, and workout either mountain biking :mountain_bicyclist: or CrossFit! :weight_lifting:
+- When I am not working I like to hang with the fam :family:, further my skills with Woodworking, and workout either mountain biking :mountain_bicyclist: or CrossFit! :weight_lifting:
 
 ### Connect with me:
 [<img align="left" alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -36,8 +36,8 @@
   <img align="left" alt="Material-UI" src="https://img.shields.io/badge/-Material_UI-3F51B5?style=flat-square&logo=materialui&logoColor=white" />
 
   <br />
----
 
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviG68&show_icons=true&theme=dark)
 
 
