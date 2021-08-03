@@ -36,6 +36,7 @@
   <img align="left" alt="Material-UI" src="https://img.shields.io/badge/-Material_UI-3F51B5?style=flat-square&logo=materialui&logoColor=white" />
 
   <br />
+  <br />
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviG68&show_icons=true&theme=dark)
